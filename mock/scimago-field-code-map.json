@@ -1,0 +1,31 @@
+{
+  "subject-area": {
+    "agricultural": "Agricultural and Biological Sciences",
+    "arts": "Arts and Humanities",
+    "biochemistry": "Biochemistry, Genetics and Molecular Biology",
+    "business": "Business, Management and Accounting",
+    "chemical": "Chemical Engineering",
+    "chemistry": "Chemistry",
+    "computer": "Computer Science",
+    "decision": "Decision Sciences",
+    "dentistry": "Dentistry",
+    "earth": "Earth and Planetary Sciences",
+    "economics": "Economics, Econometrics and Finance",
+    "energy": "Energy",
+    "engineering": "Engineering",
+    "environmental": "Environmental Science",
+    "health": "Health Professions",
+    "immunology": "Immunology and Microbiology",
+    "materials": "Materials Science",
+    "mathematics": "Mathematics",
+    "medicine": "Medicine",
+    "multidisciplinary": "Multidisciplinary",
+    "neuroscience": "Neuroscience",
+    "nursing": "Nursing",
+    "pharmacology": "Pharmacology, Toxicology and Pharmaceutics",
+    "physics": "Physics and Astronomy",
+    "psychology": "Psychology",
+    "social": "Social Sciences",
+    "veterinary": "Veterinary"
+  }
+}
