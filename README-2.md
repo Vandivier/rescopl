@@ -8,6 +8,7 @@
 4. [Contributing](#contributing)
 5. [TODO](#todo)
 6. [Miscellaneous](#miscellaneous)
+  1. [Miscellaneous](#wireframes)
 
 ## Installation
 
@@ -42,3 +43,7 @@ Alternatively, see features which are planned or in progress at this website, un
 ## Miscellaneous
 
 README content outstide the standard should go at the bottom. View a live example at https://www.helloworld.com.
+
+### Wireframes
+  * User Home Page: https://wireframe.cc/t2xRUS
+  * Idea Page, Summary View: https://wireframe.cc/nys2iW
