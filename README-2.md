@@ -8,7 +8,7 @@
 4. [Contributing](#contributing)
 5. [TODO](#todo)
 6. [Miscellaneous](#miscellaneous)
-  1. [Miscellaneous](#wireframes)
+   1. [Wireframes](#wireframes)
 
 ## Installation
 
