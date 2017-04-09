@@ -34,7 +34,7 @@ If one idea inspires a related but different idea, you can denote the idea as a 
 
 **Discourage Poaching**
 
-Idea contributions are timestamped, so contributing an idea is one way to prove temporal precedence in the origination of an idea. This combats academic poaching, and may be improved when the idea is publicized. Key alternatives to rescopl are inferior means to establish temporal precedence. Derivative mapping also provides a way to avoid temporal ambiguity which can arise when a later idea is published first.
+Idea contributions are timestamped, so contributing an idea is one way to prove temporal precedence in the origination of an idea. This combats academic poaching, and may be improved when the idea is publicized. Key alternatives to rescopl are inferior means to establish temporal precedence. Derivative mapping also provides a way to avoid temporal ambiguity which can arise when a later idea is published first. Audience control provides an additional layer of protection if desired.
 
 **High-Resolution Voting**
 
@@ -54,6 +54,10 @@ Broadcast the approximate number of hours per week you are able and willing to s
 
 Utilize check boxes to choose which kinds of notifications you want to see. Turn all notifications off, follow certain projects, follow certain users or groups, or follow all activity you are allowed to see. See notifications only in the app or in your inbox. Add a second inbox so it doesn't have to use your academic address.
 
+**Audience Control**
+
+Like Facebook, control who is allowed to view or be notified of your contributed ideas. Select particular users or leverage user groups. Choose whether your idea is public or private. Everything is private by default. Audience settings can be edited over time.
+
 **3-View Idea Page**
 
 Each idea you submit will have a discussion page with three views. The default view is a summary view which displays the users who have voted, the direction of their vote, and their aggregated reputation. Note that this is different from Reddit or other social sites. Other sites present your aggregate score, but they do not detail the underlying users and votes. This is important in case you want to drill down and elicit feedback directly.
@@ -67,6 +71,10 @@ Other websites use tags and categories, but the platform will use journal-recogn
 **Idea Lifecycle**
 
 Contribute an infant idea, develop it in conversation on the platform, associate the idea with a working paper, associate grants awarded, and, finally, associate the resulting paper. In theory, there should be one paper per idea. A second paper should involve a new idea, even if the new idea is to replicate an old idea. As data grows, eventually the platform may be able to estimate lifecycle outcomes based on the idea tags, fields, or other properties.
+
+**Featured Ideas**
+
+Like Stack Exchange, offer some of your reputation in exchange for expedited review and featured status. Users who give you the feedback you are looking for within your specified time frame receive a fraction of the reputation offered. If no feedback is received, no reputation is lost.
 
 ### Parts Unsure
 1. The name
