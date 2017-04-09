@@ -48,11 +48,11 @@ The default value is a linear aggregated vote. Quick filters allow you to weight
 
 **Availability Indicator**
 
-Utilize a [slider](https://jqueryui.com/slider/) or other widget to indicate the approximate number of hours per week you are willing to work.
+Broadcast the approximate number of hours per week you are able and willing to spare for work on a collaborative project.
 
 **Noise Control**
 
-Utilize check boxes to choose which kinds of notifications you want to see. Turn all notifications off, follow certain projects, follow certain users or groups, or follow all activity you are allowed to see. See notifications only in the app or in your inbox. Add a second inbox so it doesn't have to your academic address.
+Utilize check boxes to choose which kinds of notifications you want to see. Turn all notifications off, follow certain projects, follow certain users or groups, or follow all activity you are allowed to see. See notifications only in the app or in your inbox. Add a second inbox so it doesn't have to use your academic address.
 
 **3-View Idea Page**
 
