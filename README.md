@@ -1,5 +1,8 @@
 # rescopl - The Research Coordination Platform
 
+### Survey Intro
+If I sent you this URL please read this section, otherwise you can skip this. This readme document explains a web application I'm interested in creating, conditional on interest. After review, please send me your response as an interest level [1-5]/5. 1 means you would not use it, 3 maybe, 5 in love. Optionally, send me freeform notes. "I would like it more if X," "my friend would like this," or anything else.
+
 ### Main Idea
 1. Float your infant idea to other academics
 2. Float and develop your idea in an academic-only forum
