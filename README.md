@@ -1,5 +1,18 @@
 # rescopl - The Research Coordination Platform
 
+### November 2017 Update
+
+I'm co-opting this project for a related but different but active use case.
+
+In this use case you have a small committe of approved dudes, you create an issue, propose solutions, vote, prototype, conduct a pilot study, and approve for full organizational adoption.
+
+Technologies used atm:
+1. Nuxt, because I don't fuck around. (Actually bc I'm curious about Vue, I might switch to React if it doesn't work out.)
+
+Later I might switch to another [Express-based framework](https://expressjs.com/en/resources/frameworks.html), or roll my own, and maybe introduce an [orchestration layer](https://github.com/odino/the-conductor).
+
+Later I might integrate [search](https://www.itemsapi.com/).
+
 ### Survey Intro
 If I sent you this URL please read this section, otherwise you can skip this. This readme document explains a web application I'm interested in creating, conditional on interest. After review, please send me your response as an interest level [1-5]/5. 1 means you would not use it, 3 maybe, 5 in love. Optionally, send me freeform notes. "I would like it more if X," "my friend would like this," or anything else.
 

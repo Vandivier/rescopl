@@ -1,0 +1,30 @@
+{
+  "name": "rescopl",
+  "version": "1.0.0",
+  "description": "a research coordination platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "nuxt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vandivier/rescopl.git"
+  },
+  "keywords": [
+    "cms",
+    "research",
+    "strategy",
+    "committee",
+    "organization"
+  ],
+  "author": "John Vandivier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vandivier/rescopl/issues"
+  },
+  "homepage": "https://github.com/Vandivier/rescopl#readme",
+  "devDependencies": {
+    "nuxt": "^1.0.0-rc11"
+  }
+}
