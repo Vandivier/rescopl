@@ -13,6 +13,10 @@ Later I might switch to another [Express-based framework](https://expressjs.com/
 
 Later I might integrate [search](https://www.itemsapi.com/).
 
+ref: https://github.com/vuejs/awesome-vue
+ref: https://www.youtube.com/watch?v=Fa4cRMaTDUI
+ref: https://blog.logrocket.com/building-server-rendered-apps-in-vue-using-nuxt-js-c12c6c253274
+
 ### Survey Intro
 If I sent you this URL please read this section, otherwise you can skip this. This readme document explains a web application I'm interested in creating, conditional on interest. After review, please send me your response as an interest level [1-5]/5. 1 means you would not use it, 3 maybe, 5 in love. Optionally, send me freeform notes. "I would like it more if X," "my friend would like this," or anything else.
 
