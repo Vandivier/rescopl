@@ -14,6 +14,7 @@ Later I might switch to another [Express-based framework](https://expressjs.com/
 Later I might integrate [search](https://www.itemsapi.com/).
 
 ref: https://github.com/vuejs/awesome-vue
+ref: https://github.com/nuxt-community/awesome-nuxt
 ref: https://www.youtube.com/watch?v=Fa4cRMaTDUI
 ref: https://blog.logrocket.com/building-server-rendered-apps-in-vue-using-nuxt-js-c12c6c253274
 

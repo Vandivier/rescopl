@@ -9,9 +9,12 @@
         a research coordination platform
       </h2>
       <div class="links">
-        <a href="https://github.com/Vandivier/rescopl" target="_blank" class="button--green">GitHub</a>
+        <a href="https://github.com/Vandivier/rescopl" target="_blank" class="button--grey">GitHub</a>
         <a href="https://nuxtjs.org/" target="_blank" class="button--grey">Nuxt Documentation</a>
-        <a href="/bookmarks" target="_blank" class="button--grey">John's Bookmarks</a>
+        <a href="/bookmarks" class="button--grey">John's Bookmarks</a>
+      </div>
+      <div class="links">
+        <nuxt-link to="/create-idea" class="button--green">Create Idea</nuxt-link>
       </div>
     </div>
   </section>
